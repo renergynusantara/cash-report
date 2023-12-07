@@ -1,7 +1,7 @@
 <?php
 
 function customRedirect($newURL) {
-    header('Location: ' . $newURL . ".php");
+    header('Location: ' . $newURL);
     exit();
 }
 
