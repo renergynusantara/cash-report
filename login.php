@@ -16,7 +16,7 @@
         <div class="w-50 h-100 p-5 d-flex flex-column justify-content-center align-items-center">
             <div class="w-75 border rounded-4 shadow">
                 <h3 class="p-3 m-0 rounded-top-4 text-center" style="background: #73c2fb">
-                welcome to Renus Cash Manager!
+                Renus Cash Manager!
                 </h3>
                 <div class="p-3">
                     <form action="functions/loginRegister" method="POST">
