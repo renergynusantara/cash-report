@@ -6,14 +6,14 @@
     if ( isset($_SESSION["login"]) ) {
         // header("Location: dashboard");
         // exit();
-        customRedirect("dashboard.php")
+        customRedirect("dashboard");
     } elseif(isset($_COOKIE['login'])) {
         // header("Location: dashboard");
         // exit();
-        customRedirect("dashboard.php")
+        customRedirect("dashboard");
     } else {
         // header("Location: login");
         // exit();
-        customRedirect("login.php")
+        customRedirect("login");
     }
 ?>
