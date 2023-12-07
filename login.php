@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="img/rns.png">
-    <title>Login | Renus Cash Manager 1</title>
+    <title>Login | Renus Cash Manager</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"></script>
 </head>
@@ -16,7 +16,7 @@
         <div class="w-50 h-100 p-5 d-flex flex-column justify-content-center align-items-center">
             <div class="w-75 border rounded-4 shadow">
                 <h3 class="p-3 m-0 rounded-top-4 text-center" style="background: #73c2fb">
-                Renus Cash Manager
+                welcome to Renus Cash Manager!
                 </h3>
                 <div class="p-3">
                     <form action="functions/loginRegister" method="POST">
